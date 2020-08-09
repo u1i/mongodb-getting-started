@@ -5,6 +5,7 @@
 * Linux or Mac machine
 * Docker installed & running
 * Terminal Application
+* Or simply use the [Google Cloud Shell](https://console.cloud.google.com/home/dashboard?cloudshell=true) (free!)
 
 ## 1 – Run MongoDB with Interactive Shell
 
