@@ -45,6 +45,10 @@
 
 ## 4 – Query Data
 
+### List All Collections
+
+`db.getCollectionNames()`
+
 ### Get All Data in a Collection
 
 `db.students.find()`
