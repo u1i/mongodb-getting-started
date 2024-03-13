@@ -43,6 +43,10 @@
 
 `db.students.insert({"name": "Jason", "email": "jdoerr@gmail.com"})`
 
+`db.students.insert({"name": "Jason", "email": "jdoerr@gmail.com"}, "activities": ["basketball", "table tennis"])`
+
+
+
 ## 4 – Query Data
 
 ### List All Collections
