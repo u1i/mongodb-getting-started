@@ -7,6 +7,6 @@ docker run --name mymongo -d mongo
 echo Hang on for a moment...
 sleep 10
 echo Starting Mongo Shell
-docker exec -it mymongo mongo
+docker exec -it mymongo mongosh
 
 echo "MongoDB Shell stopped. Did you press Ctrl-C maybe? Anyway, simply run the $0 script again like previously."
